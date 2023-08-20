@@ -1,18 +1,12 @@
 ## 4. Projeto da solução
 
-### 4.1. Diagrama de classes
+### 4.1. Modelo de dados
 
-![Diagrama de classes](images/classes.gif "Diagrama de classes")
-
-_Acrescente uma breve descrição sobre o diagrama apresentado. Descreva cada uma de suas classes._
-
-### 4.2. Modelo de dados
-
-_Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos os conceitos e atributos apresentados no item anterior._ 
+_Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos os conceitos e atributos apresentados na modelagem dos processos._ 
 
 ![Diagrama de Entidade Relacionamento de Exemplo](images/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
 
-### 4.3. Tecnologias
+### 4.2. Tecnologias
 
 _Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas. Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário._
 
@@ -26,33 +20,33 @@ _Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou s
 | Deploy         | Github Pages    |
 
 
-### 4.5. Guias de estilo
+### 4.3. Guias de estilo
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+_Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia._
 
-Explique as guias de estilo utilizadas no seu projeto.
+_Explique as guias de estilo utilizadas no seu projeto._
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+_Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas._
 
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+_Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color*_ ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de seção, Rótulos de componentes e Corpo de Texto.
+_Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de seção, Rótulos de componentes e Corpo de Texto._
 
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
+_Defina os ícones que serão utilizados e suas respectivas funções._
 
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
+_Apresente os estilos CSS criados para cada um dos elementos apresentados.
+Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc._
 
 
 > **Links Úteis**:
