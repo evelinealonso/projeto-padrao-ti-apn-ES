@@ -11,6 +11,8 @@
 
 **Nome completo do Aluno 5, email do aluno 5**
 
+**Nome completo do Aluno 6, email do aluno 6**
+
 ---
 
 Professores:
@@ -19,11 +21,9 @@ Professores:
 
 ** Prof. Nome do Prof 2 **
 
-** Prof. Nome do Prof 3 **
-
 ---
 
-_Curso de Engenharia de Software, Unidade Praça da Liberdade_
+_Curso de Engenharia de Software, Campus Coração Eucarístico_
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
@@ -55,7 +55,7 @@ para tal._
 ### 1.3 Objetivo geral
 
 _O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
 
 #### 1.3.1 Objetivos específicos
 
@@ -97,9 +97,9 @@ _Apresente aqui uma descrição da sua proposta abordando seus limites e suas li
 
 ## 4. Projeto da solução
 
-O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas cinco seções que descrevem, respectivamente: diagrama de classes, diagrama de componentes, diagrama de entidade-relacionamento, tecnologias utilizadas e guias de estilo.
+O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas três seções que descrevem, respectivamente: diagrama de entidade-relacionamento, tecnologias utilizadas e guias de estilo.
 
-[Projeto da solução](solution-design.md "Detalhamento do Projeto da solução: classes, componentes, der, tecnologias e guias de estilo.")
+[Projeto da solução](solution-design.md "Detalhamento do projeto da solução: der, tecnologias e guias de estilo.")
 
 
 ## 5. Indicadores de desempenho
@@ -115,11 +115,11 @@ A sessão a seguir apresenta a descrição do produto de software desenvolvido.
 
 [Documentação da interface do sistema](interface.md)
 
-## 7. Testes
+## 7. Testes de unidade
 
-A sessão a seguir apresenta a descrição dos testes de unidade e testes de usabilidade realizados. 
+A sessão a seguir apresenta a descrição dos testes de unidade realizados. 
 
-[Testes do sistema](tests.md)
+[Testes de unidade](tests.md)
 
 ## 8. Conclusão
 
@@ -131,8 +131,7 @@ _Como um projeto de software não requer revisão bibliográfica, a inclusão da
 
 _Verifique no link abaixo como devem ser as referências no padrão ABNT:_
 
-http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
-
+http://portal.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
 
 **[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
 
