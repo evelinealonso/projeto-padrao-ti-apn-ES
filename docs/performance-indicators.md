@@ -1,6 +1,6 @@
 ## 5. Indicadores de desempenho
 
-_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no DER. Definir no mínimo 5 indicadores._
+_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no DER. Defina no mínimo 5 indicadores._
 
 _Perspectivas de medidas de avaliação de desempenho de processos:_
 
