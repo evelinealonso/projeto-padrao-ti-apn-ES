@@ -24,7 +24,7 @@ _Nesta seção o grupo deverá documentar os testes de software que verificam a 
 **Teste associado** | `UsuarioTest.testExistingUser()` |
 
 
-## Avaliação dos Testes de Unidade
+## Avaliação dos Testes de Software
 
 _Discorra sobre os resultados do teste, ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes._
 
