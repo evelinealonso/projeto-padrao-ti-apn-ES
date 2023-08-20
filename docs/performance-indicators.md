@@ -5,9 +5,13 @@ _Apresente aqui os principais indicadores de desempenho e algumas metas para o p
 _Perspectivas de medidas de avaliação de desempenho de processos:_
 
 _* Financeira_
+
 _* Cliente_
+
 _* Aprendizado e Crescimento_
+
 _* Processos internos_
+
 
 _Veja o link [Heflo - Types of Process Performance Metrics](https://www.heflo.com/blog/business-management/process-performance-metrics/)_
 
