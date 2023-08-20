@@ -115,11 +115,11 @@ A sessão a seguir apresenta a descrição do produto de software desenvolvido.
 
 [Documentação da interface do sistema](interface.md)
 
-## 7. Testes de unidade
+## 7. Testes do software
 
-A sessão a seguir apresenta a descrição dos testes de unidade realizados. 
+A sessão a seguir apresenta a descrição dos testes realizados. 
 
-[Testes de unidade](tests.md)
+[Testes do software](tests.md)
 
 ## 8. Conclusão
 
