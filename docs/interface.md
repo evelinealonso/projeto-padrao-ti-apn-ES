@@ -7,7 +7,7 @@ _Visão geral da interação do usuário pelas telas do sistema. Apresente as pr
 
 _Descrição da tela principal do sistema._
 
-[`Tela principal do sistema`](../images/)
+[`Tela principal do sistema`](images/)
 
 
 ## 6.2. Telas do processo 1
