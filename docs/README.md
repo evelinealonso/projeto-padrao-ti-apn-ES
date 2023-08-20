@@ -131,7 +131,7 @@ _Como um projeto de software não requer revisão bibliográfica, a inclusão da
 
 _Verifique no link abaixo como devem ser as referências no padrão ABNT:_
 
-http://portal.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
+http://portal.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
 **[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
 
