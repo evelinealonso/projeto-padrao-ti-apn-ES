@@ -23,7 +23,7 @@ Professores:
 
 ---
 
-_Curso de Engenharia de Software, Campus Coração Eucarístico_
+_Curso de Engenharia de Software
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
@@ -90,10 +90,6 @@ _Apresente aqui uma descrição da sua proposta abordando seus limites e suas li
 [PROCESSO 3 - Nome do Processo](processo-3-nome-do-processo.md "Detalhamento do Processo 3.")
 
 [PROCESSO 4 - Nome do Processo](processo-4-nome-do-processo.md "Detalhamento do Processo 4.")
-
-[PROCESSO 5 - Nome do Processo](processo-5-nome-do-processo.md "Detalhamento do Processo 5.")
-
-[PROCESSO 6 - Nome do Processo](processo-6-nome-do-processo.md "Detalhamento do Processo 6.")
 
 ## 4. Projeto da solução
 
