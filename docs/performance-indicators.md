@@ -1,17 +1,6 @@
 ## 5. Indicadores de desempenho
 
-_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no DER. Defina no mínimo 5 indicadores._
-
-_Perspectivas de medidas de avaliação de desempenho de processos:_
-
-_* Financeira_
-
-_* Cliente_
-
-_* Aprendizado e Crescimento_
-
-_* Processos internos_
-
+_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no modelo relacional. Defina no mínimo 3 indicadores._
 
 _Veja o link [Heflo - Types of Process Performance Metrics](https://www.heflo.com/blog/business-management/process-performance-metrics/)_
 
