@@ -11,8 +11,6 @@
 
 **Nome completo do Aluno 5, email do aluno 5**
 
-**Nome completo do Aluno 6, email do aluno 6**
-
 ---
 
 Professores:
@@ -93,9 +91,9 @@ _Apresente aqui uma descrição da sua proposta abordando seus limites e suas li
 
 ## 4. Projeto da solução
 
-O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas três seções que descrevem, respectivamente: diagrama de entidade-relacionamento, tecnologias utilizadas e guias de estilo.
+O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas duas seções que descrevem, respectivamente: modelo relacional e tecnologias.
 
-[Projeto da solução](solution-design.md "Detalhamento do projeto da solução: der, tecnologias e guias de estilo.")
+[Projeto da solução](solution-design.md "Detalhamento do projeto da solução: modelo relacional e tecnologias.")
 
 
 ## 5. Indicadores de desempenho
@@ -111,13 +109,7 @@ A sessão a seguir apresenta a descrição do produto de software desenvolvido.
 
 [Documentação da interface do sistema](interface.md)
 
-## 7. Testes do software
-
-A sessão a seguir apresenta a descrição dos testes realizados. 
-
-[Testes do software](tests.md)
-
-## 8. Conclusão
+## 7. Conclusão
 
 _Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo._
 
