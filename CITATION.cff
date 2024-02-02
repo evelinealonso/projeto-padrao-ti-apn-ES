@@ -1,6 +1,7 @@
-# YAML 1.2
----
-authors: 
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
   - family-names: sobrenome do aluno 1
     given-names: Nome do aluno 1 
   - family-names: sobrenome do aluno 2
@@ -11,30 +12,22 @@ authors:
     given-names: Nome do aluno 4 
   - family-names: sobrenome do aluno 5
     given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6 
-    
+
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: Veloso
-    given-names: Eveline Alonso
+    family-names: Alonso Veloso
+    given-names: Eveline 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: Belém
-    given-names: Felipe de Castro 
-  
-cff-version: "1.1.0"
-keywords: 
-  - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
-message: |
-    "If you use this software, please cite it using these metadata.
-    Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
-abstract: |
-    "
-    Breve descrição do projeto
-    "
-...
+    family-names: Baroni De Carvalho
+    given-names: Juliana Amaral 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: De Brito
+    given-names: Aline Norberta
+    keywords:
+    - 
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released:
