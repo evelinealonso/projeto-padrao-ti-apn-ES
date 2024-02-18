@@ -58,7 +58,7 @@ O objetivo deve ser bem direto, específico e definido com verbos de ação (ela
 #### 1.3.1 Objetivos específicos
 
 _Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho._
+concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
 
 ### 1.4 Justificativas
 
@@ -67,7 +67,7 @@ desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição d
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+_Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
 
 ## 3. Modelagem do processo de negócio
 
