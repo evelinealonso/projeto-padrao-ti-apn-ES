@@ -25,7 +25,7 @@ Professores:
 
 ---
 
-_Curso de Engenharia de Software
+_Curso de Engenharia de Software_
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
