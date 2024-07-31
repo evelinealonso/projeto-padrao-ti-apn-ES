@@ -48,7 +48,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel  ) |
 | ***Exemplo:***       |                                |                   |
 | entrar               | Fim do Processo 1              | default           |
 | cadastrar            | Início do proceso de cadastro  |                   |

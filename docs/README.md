@@ -79,7 +79,7 @@ _Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as infor
 
 _Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
 
-### 3.2. Descrição geral da proposta
+### 3.2. Descrição geral da proposta de solução
 
 _Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
 
@@ -95,21 +95,21 @@ _Apresente aqui uma descrição da sua proposta abordando seus limites e suas li
 
 ## 4. Projeto da solução
 
-O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas duas seções que descrevem, respectivamente: modelo relacional e tecnologias.
+_O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas duas seções que descrevem, respectivamente: modelo relacional e tecnologias._
 
 [Projeto da solução](solution-design.md "Detalhamento do projeto da solução: modelo relacional e tecnologias.")
 
 
 ## 5. Indicadores de desempenho
 
-O documento a seguir apresenta os indicadores de desempenho dos processos.
+_O documento a seguir apresenta os indicadores de desempenho dos processos._
 
 [Indicadores de desempenho dos processos](performance-indicators.md)
 
 
 ## 6. Interface do sistema
 
-A sessão a seguir apresenta a descrição do produto de software desenvolvido. 
+_A sessão a seguir apresenta a descrição do produto de software desenvolvido._ 
 
 [Documentação da interface do sistema](interface.md)
 
