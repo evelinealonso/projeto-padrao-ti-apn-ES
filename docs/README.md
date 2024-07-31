@@ -11,6 +11,8 @@
 
 **Nome completo do Aluno 5, email do aluno 5**
 
+**Nome completo do Aluno 6, email do aluno 6**
+
 ---
 
 Professores:
@@ -18,6 +20,8 @@ Professores:
 ** Prof. Nome do Prof 1 **
 
 ** Prof. Nome do Prof 2 **
+
+** Prof. Nome do Prof 3 **
 
 ---
 
