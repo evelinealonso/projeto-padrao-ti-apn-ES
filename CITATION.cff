@@ -12,20 +12,27 @@ authors:
     given-names: Nome do aluno 4 
   - family-names: sobrenome do aluno 5
     given-names: Nome do aluno 5 
+  - family-names: sobrenome do aluno 6
+    given-names: Nome do aluno 6 
 
-  - name-suffix: Professor
+  - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
     given-names: Eveline 
-  - name-suffix: Professor
+  - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Baroni De Carvalho
     given-names: Juliana Amaral 
-  - name-suffix: Professor
+  - name-suffix: Professora
     affiliation: PUC Minas
     family-names: De Brito
     given-names: Aline Norberta
-    keywords:
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Ribeiro De Souza
+    given-names: Joana Gabriela
+    
+keywords:
     - 
 repository-code: 
 license: CC-BY-4.0
