@@ -115,7 +115,7 @@ _A sessão a seguir apresenta a descrição do produto de software desenvolvido.
 
 ## 7. Conclusão
 
-_Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo._
+_Apresente aqui a conclusão do seu trabalho. Deve ser apresentada aqui uma discussão dos resultados obtidos no trabalho, local em que se verifica as observações pessoais de cada aluno. Essa seção poderá também apresentar sugestões de novas linhas de estudo._
 
 # REFERÊNCIAS
 
