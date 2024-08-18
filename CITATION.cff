@@ -14,7 +14,6 @@ authors:
     given-names: Nome do aluno 5 
   - family-names: sobrenome do aluno 6
     given-names: Nome do aluno 6 
-
   - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
@@ -31,9 +30,9 @@ authors:
     affiliation: PUC Minas
     family-names: Ribeiro De Souza
     given-names: Joana Gabriela
-    
 keywords:
-    - 
+  - 
+  - 
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
